@@ -1,0 +1,15 @@
+{
+  "googleService": {
+    "service": "google",
+    "clientId": "ppp",
+    "secret": "qqq"
+  },
+  "particle": {
+    "deviceId": "rrr",
+    "token": "sss"
+  },
+  "userWhitelist": [
+    "xxx@gmail.com",
+    "yyy@gmail.com"
+  ]
+}

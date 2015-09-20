@@ -1,0 +1,24 @@
+/* CSS declarations go here */
+html {
+  background: #e6ffff;
+}
+
+.fill-wine {
+  fill: #804060;
+}
+
+.round-button {
+  display: block;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  border-radius: 50%;
+  border: 2px solid #806c40;
+  overflow: hidden;
+  background: #ffda80;
+  box-shadow: 0 0 3px gray;
+  margin: auto;
+}
+.round-button:hover {
+    background: #ffb400;
+}
