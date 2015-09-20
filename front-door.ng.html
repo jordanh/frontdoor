@@ -3,7 +3,9 @@
 
   <h2 style="margin-top: 16px">Unlock Door</h2>
 
-  <div ng-click="unlockDoor()" class="round-button">
+  <div ng-show="$root.currentUser"
+       ng-click="unlockDoor()" class="round-button">
       <div class="fill-wine" data-icon="ei-lock" data-size="l"></div>
   </div>
+
 </div>
