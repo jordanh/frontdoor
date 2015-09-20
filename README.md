@@ -2,7 +2,7 @@
 
 A weekend hack to wire up a [Particle Photon](http://particle.io) WiFi module to an apartment building's intercom system allowing you to wirelessly unlock the building's front door.
 
-TODO: add screenshot
+![app interface](https://raw.githubusercontent.com/jordanh/frontdoor/master/private/images/front-door-mobile.png)
 
 ## Hardware Parts List
 
@@ -20,7 +20,7 @@ Optional:
 
 Connect Particle Photo to relay using the below schematic:
 
-TODO: add schematic
+![schematic](https://raw.githubusercontent.com/jordanh/frontdoor/master/private/images/schematic.jpg)
 
 Connect relay's _normally open_ terminal and one of relay's _common_ terminals to contacts on intercom that normally are shorted together when user pushes "door" button.
 
